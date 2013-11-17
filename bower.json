@@ -2,7 +2,7 @@
   "name": "AmberWebApp",
   "version": "0.0.1",
   "dependencies": {
-    "amber": "latest",
+    "amber": "0.12.1",
     "requirejs": "latest",
     "HTML": "~0.9.4"
   }
